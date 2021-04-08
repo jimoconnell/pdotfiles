@@ -7,5 +7,5 @@ Note: You will need to set your terminal font inside of preferences to the Meslo
 
 ## Installation
 ```
-git clone https://github.com/ZoneMix/pdotfiles.git ~/dotfiles --recursive --recurse-submodules; cd ~/dotfiles; chmod u+x install.sh; ./install.sh
+git clone https://github.com/jimoconnell/pdotfiles.git ~/dotfiles --recursive --recurse-submodules; cd ~/dotfiles; chmod u+x install.sh; ./install.sh
 ```
