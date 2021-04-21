@@ -9,6 +9,12 @@ source $ZSH/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 source $ZSH/oh-my-zsh.sh
 
+mgo () {
+mkdir "$1"
+cd "$1"
+}
+alias hg="history | grep"
+
 alias tmux="env TERM=screen-256color-italic tmux"
 alias vim="nvim"
 alias c="clear"
